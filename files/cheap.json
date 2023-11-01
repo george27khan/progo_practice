@@ -1,0 +1,26 @@
+[
+  {
+    "Category": "Watersports",
+    "Name": "Lifejacket",
+    "Price": 49.95
+  },
+  {
+    "Category": "Soccer",
+    "Name": "Soccer Ball",
+    "Price": 19.5
+  },
+  {
+    "Category": "Soccer",
+    "Name": "Corner Flags",
+    "Price": 34.95
+  },
+  {
+    "Category": "Chess",
+    "Name": "Thinking Cap",
+    "Price": 16
+  },
+  {
+    "Category": "Chess",
+    "Name": "Unsteady Chair",
+    "Price": 75
+  }]
